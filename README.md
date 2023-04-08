@@ -1,4 +1,6 @@
-
+<h1 align="center">Hi 👋, I'm Amna Sumbal</h1>
+<h3 align="center">A passionate Student of Computer Science</h3>
+<img align='right' src="https://user-images.githubusercontent.com/130239135/230736339-9094d9a5-9b23-46ba-9e47-bc7f58cecb66.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnaasumbal&label=Profile%20views&color=0e75b6&style=flat" alt="amnaasumbal" /> </p>
 
 - 🔭 I’m currently studying **Computer Science**
@@ -20,5 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnaasumbal&show_icons=true&locale=en&layout=compact" alt="amnaasumbal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnaasumbal&" alt="amnaasumbal" /></p>
-<p></p>
-
